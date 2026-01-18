@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China"
+locale                   : "Beijing, China"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Xinyi Zhou"
 title_separator          : "-"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "周欣怡"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "PhD Student at PKU"
+  location         : "Beijing, China"
+  employer         : "Peking University"
+  uri              : "https://xinyizhou.github.io"
+  email            : "2511110107@stu.pku.edu.cn" 
 
   # Academic websites
   academia         : # URL
